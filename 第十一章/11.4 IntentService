@@ -1,6 +1,6 @@
 IntentService是一种特殊的Service，它继承自Service。IntentService可用于执行后台耗时操作，当任务执行完毕后它会自动停止。相比于Service,IntentService因为封装了HandlerThread的缘故，
 会新建一个线程；相比于Thread,因为继承了Service，线程不会轻易被杀死。
-那么为什么在任务执行完之后它会自动停止呢？真正的原因在其内部类
+那么为什么在任务执行完之后它会自动停止呢？真正的原因在其内部类ServiceHandler的handleMessage()方法中调用的stopSelf(int id)
 private final class ServiceHandler extends Handler {
         public ServiceHandler(Looper looper) {
             super(looper);
