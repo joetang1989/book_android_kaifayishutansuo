@@ -14,10 +14,10 @@ private final class ServiceHandler extends Handler {
     }
 
 
-另外对比继承Service的子类，处理业务代码无需重写onStartCommand(Intent intent, int flags, int startId)而是重写onHandleIntent(Intent intent)。
+对比继承Service的子类，处理业务代码无需重写onStartCommand(Intent intent, int flags, int startId)而是重写onHandleIntent(Intent intent)。
 因为在onStart(Intent intent, int startId)方法中通过消息传递到ServiceHandler中了。如果非要重写onStartCommand(),那么业务将不是在子线程中处理了。
 
-在调用stopSelf()或stopService()之间如果服务异常终止，如果是Service的子类需要在onStartCommand()里设置不同的返回值；而IntentService的子类则可以
+另外在调用stopSelf()或stopService()之间如果服务异常终止，如果是Service的子类需要在onStartCommand()里设置不同的返回值；而IntentService的子类则可以
 通过调用void setIntentRedelivery(boolean enabled)决定是否重传。
 
 
