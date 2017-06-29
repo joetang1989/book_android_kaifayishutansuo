@@ -15,6 +15,7 @@ private final class ServiceHandler extends Handler {
 
 
 另外对比继承Service的子类，处理业务代码无需重写onStartCommand(Intent intent, int flags, int startId)而是重写onHandleIntent(Intent intent)。
+因为在onStart(Intent intent, int startId)方法中
 
 
 可参考packages/apps/Email/provider_src/com/android/email/service/EmailBroadcastProcessorService.java
