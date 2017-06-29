@@ -24,6 +24,10 @@
 ## 第十一章 Android的线程和线程池
 
 * [1.概述](第十一章/11.1 概述)
+* [2.AsyncTask](第十一章/11.2 AsyncTask)
+* [3.HandlerThread](第十一章/11.3 HandlerThread)
+* [4.IntentService](第十一章/11.4 IntentService)
+* [5.线程池](第十一章/11.5 Android中线程池)
 
 ## 第十二章 Bitmap的加载和Cache
 

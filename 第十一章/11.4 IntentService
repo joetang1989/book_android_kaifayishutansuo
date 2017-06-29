@@ -1,0 +1,2 @@
+IntentService是一种特殊的Service，它继承自Service。IntentService可用于执行后台耗时操作，当任务执行完毕后它会自动停止。相比于Service,IntentService因为封装了HandlerThread的缘故，
+会新建一个线程；相比于
