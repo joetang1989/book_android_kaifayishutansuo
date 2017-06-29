@@ -18,5 +18,9 @@ private final class ServiceHandler extends Handler {
 因为在onStart(Intent intent, int startId)方法中通过消息传递到ServiceHandler中了。如果非要重写onStartCommand(),那么业务将不是在子线程中处理了。
 
 
+onStartCommand()返回值的意义:
+
+
+
 
 可参考packages/apps/Email/provider_src/com/android/email/service/EmailBroadcastProcessorService.java
