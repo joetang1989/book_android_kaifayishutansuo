@@ -12,3 +12,6 @@ private final class ServiceHandler extends Handler {
             stopSelf(msg.arg1);//停止服务--IntentService在处理完后会结束
         }
     }
+
+
+另外对比继承Service的子类，处理业务代码无需重写onStartCommand()而是重写onHandleIntent(Intent intent)
