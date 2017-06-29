@@ -19,7 +19,7 @@ private final class ServiceHandler extends Handler {
 
 
 onStartCommand()返回值的意义:
-
+http://blog.csdn.net/huutu/article/details/40357481
 
 
 
