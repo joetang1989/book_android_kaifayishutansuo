@@ -1,1 +1,2 @@
     Android中线程除了继承Thread或实现Runnable之外，还封装一些基础类，在子线程中完成耗时操作，避免主线程阻塞而出现ANR现象。
+    常见的有AsyncTask,IntentService和HandlerThread。
