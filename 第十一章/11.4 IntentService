@@ -14,4 +14,4 @@ private final class ServiceHandler extends Handler {
     }
 
 
-另外对比继承Service的子类，处理业务代码无需重写onStartCommand()而是重写onHandleIntent(Intent intent)
+另外对比继承Service的子类，处理业务代码无需重写onStartCommand(Intent intent, int flags, int startId)而是重写onHandleIntent(Intent intent)。
