@@ -24,7 +24,7 @@
                                                                                                                 
                                                                                                                                     
  参考文章:
- 1.线程池的介绍及简单实现
+ 1.线程池的介绍及简单实现(https://www.ibm.com/developerworks/cn/java/l-threadPool/)
  2.线程池ThreadPoolExecutor、Executors参数详解与源代码分析                                                           
 
 
