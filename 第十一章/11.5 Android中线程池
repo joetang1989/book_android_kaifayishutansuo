@@ -25,7 +25,8 @@
                                                                                                                                     
  参考文章:
  1.线程池的介绍及简单实现(https://www.ibm.com/developerworks/cn/java/l-threadPool/)
- 2.线程池ThreadPoolExecutor、Executors参数详解与源代码分析(http://www.cnblogs.com/nullzx/p/5184164.html)                                                           
+ 2.线程池ThreadPoolExecutor、Executors参数详解与源代码分析(http://www.cnblogs.com/nullzx/p/5184164.html)  
+ 3.并发新特性—Executor 框架与线程池(http://wiki.jikexueyuan.com/project/java-concurrency/executor.html)                                                         
 
 
 
