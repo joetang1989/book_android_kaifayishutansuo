@@ -34,6 +34,10 @@
 * [4.IntentService](第十一章/11.4 IntentService)
 * [5.线程池](第十一章/11.5 Android中线程池)
 * [1.概述](第十一章/1gai-shu.md)
+* 2.AsyncTask
+* [3.HandlerThread](第十一章/3handlerthread.md)
+* [4.IntentService](第十一章/4intentservice.md)
+* 5.线程池
 
 ## 第十二章 Bitmap的加载和Cache
 
