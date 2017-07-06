@@ -11,6 +11,11 @@
 
 ## 第五章 RemoteViews
 
+* [1.初始ViewRoot和DetectView](di-wu-zhang-remoteviews/1chu-shi-viewroot-he-detectview.md)
+* 2.理解MeasureSpec
+* 3.View的工作流程
+* 4.自定义View
+
 ## 第六章 Android中的Drawable
 
 ## 第七章 Android动画深入分析
