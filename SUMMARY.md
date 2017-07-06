@@ -11,7 +11,7 @@
 
 * [1.初识ViewRoot和DecorView](第四章/1chu-shi-viewroot-he-decorview.md)
 * [2.理解 MeasureSpec](第四章/2li-jiemeasurespec.md)
-* 3.View 的工作流程
+* [3.View 的工作流程](第四章/3view-de-gong-zuo-liu-cheng.md)
 * [4.自定义 View](第四章/4zi-ding-yi-view.md)
 
 ## 第五章 RemoteViews
