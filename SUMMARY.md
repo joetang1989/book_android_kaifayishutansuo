@@ -9,12 +9,12 @@
 
 ## 第四章 View的工作原理
 
-## 第五章 RemoteViews
+* [1.初识ViewRoot和DecorView](第四章/1chu-shi-viewroot-he-decorview.md)
+* [2.理解 MeasureSpec](第四章/2li-jiemeasurespec.md)
+* 3.View 的工作流程
+* [4.自定义 View](第四章/4zi-ding-yi-view.md)
 
-* [1.初始ViewRoot和DetectView](di-wu-zhang-remoteviews/1chu-shi-viewroot-he-detectview.md)
-* 2.理解MeasureSpec
-* 3.View的工作流程
-* 4.自定义View
+## 第五章 RemoteViews
 
 ## 第六章 Android中的Drawable
 
@@ -33,6 +33,7 @@
 * [3.HandlerThread](第十一章/11.3 HandlerThread)
 * [4.IntentService](第十一章/11.4 IntentService)
 * [5.线程池](第十一章/11.5 Android中线程池)
+* [1.概述](第十一章/1gai-shu.md)
 
 ## 第十二章 Bitmap的加载和Cache
 
