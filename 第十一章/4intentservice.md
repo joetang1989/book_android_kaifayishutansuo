@@ -28,7 +28,7 @@ onHandleIntent(Intent intent)。因为在onStart(Intent intent, int startId)方�
 onStartCommand()返回值的意义:
 可参考文章:Android Service生命周期 Service里面的onStartCommand()方法详解
 这个函数返回值可以有四个：START_STICKY、START_NOT_STICKY、START_REDELIVER_INTENT、START_STICKY_COMPATIBILITY。  
-它们的含义分别是：  
+它们的含义分别是：
 1):START_STICKY：如果service进程被kill掉，保留service的状态为开始状态，但不保留递送的intent对象。随后系统会尝试重新创建service，
 由于服务状态为开始状态，所以创建服务后一定会调用onStartCommand(Intent,int,int)方法。如果在此期间没有任何启动命令被传递到service，
 那么参数Intent将为null。  
