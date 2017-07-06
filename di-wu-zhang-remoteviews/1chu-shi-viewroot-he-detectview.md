@@ -1,4 +1,4 @@
-#                             初识ViewRoot和DetectView
+#                              初识ViewRoot和DetectView
 
 ---
 
