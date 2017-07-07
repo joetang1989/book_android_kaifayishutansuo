@@ -35,6 +35,8 @@
  5.AbstractQueuedSynchronizer的介绍和原理分析
  http://ifeve.com/introduce-abstractqueuedsynchronizer/
  6.并发队列-无界阻塞优先级队列PriorityBlockingQueue原理探究
+ 7.JAVA互斥锁(synchronized&Lock)：行为分析及源码
+ http://ifeve.com/java%E4%BA%92%E6%96%A5%E9%94%81synchronizedlock%EF%BC%9A%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E5%8F%8A%E6%BA%90%E7%A0%81/
 ```
 
 
