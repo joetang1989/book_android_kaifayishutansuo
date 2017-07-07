@@ -33,7 +33,7 @@
 * [3.HandlerThread](第十一章/3handlerthread.md)
 * [4.IntentService](第十一章/4intentservice.md)
 * [5.线程池](第十一章/5xian-cheng-chi.md)
-* 6. AbstractQueuedSynchronizer
+  * 6. AbstractQueuedSynchronizer
 
 ## 第十二章 Bitmap的加载和Cache
 
