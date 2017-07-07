@@ -15,26 +15,24 @@
     一定时间后销毁，避免没需要执行的任务时，仍然占用线程资源。
     那么，接下来，正式开始谈谈线程池。脑海里出现一连串问号。什么是线程池？为什么要用线程池？线程池与线程有什么差？怎么合理使用线程池？
     因线程是稀缺资源，引入线程池，可避免重复创建和销毁线程，降低资源消耗，提高相应速度。另外，可以对需要执行的任务进行管理。
-    
-        
-            
 
 
-                
-                                
-                                                    
-                                                                        
-                                                                                            
-                                                                                                                
-                                                                                                                                    
+
+
+
+
+
+
+
+
+
+
  参考文章:
  1.线程池的介绍及简单实现(https://www.ibm.com/developerworks/cn/java/l-threadPool/)
  2.线程池ThreadPoolExecutor、Executors参数详解与源代码分析(http://www.cnblogs.com/nullzx/p/5184164.html)  
- 3.并发新特性—Executor 框架与线程池(http://wiki.jikexueyuan.com/project/java-concurrency/executor.html)                                                         
-
-
-
-
+ 3.并发新特性—Executor 框架与线程池(http://wiki.jikexueyuan.com/project/java-concurrency/executor.html)
+ 4.Java中线程池ThreadPoolExecutor原理探究
+ http://ifeve.com/java%E4%B8%AD%E7%BA%BF%E7%A8%8B%E6%B1%A0threadpoolexecutor%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/
 ```
 
 
