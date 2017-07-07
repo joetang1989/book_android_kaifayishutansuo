@@ -26,7 +26,6 @@
 
 
 
-
  参考文章:
  1.线程池的介绍及简单实现(https://www.ibm.com/developerworks/cn/java/l-threadPool/)
  2.线程池ThreadPoolExecutor、Executors参数详解与源代码分析(http://www.cnblogs.com/nullzx/p/5184164.html)  
@@ -35,6 +34,7 @@
  http://ifeve.com/java%E4%B8%AD%E7%BA%BF%E7%A8%8B%E6%B1%A0threadpoolexecutor%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/
  5.AbstractQueuedSynchronizer的介绍和原理分析
  http://ifeve.com/introduce-abstractqueuedsynchronizer/
+ 6.并发队列-无界阻塞优先级队列PriorityBlockingQueue原理探究
 ```
 
 
