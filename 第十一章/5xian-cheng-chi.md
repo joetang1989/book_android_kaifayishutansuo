@@ -32,6 +32,8 @@
  3.并发新特性—Executor 框架与线程池(http://wiki.jikexueyuan.com/project/java-concurrency/executor.html)
  4.Java中线程池ThreadPoolExecutor原理探究
  http://ifeve.com/java%E4%B8%AD%E7%BA%BF%E7%A8%8B%E6%B1%A0threadpoolexecutor%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A9%B6/
+ Java中调度线程池ScheduledThreadPoolExecutor原理探究
+ http://ifeve.com/33981-2/
  5.AbstractQueuedSynchronizer的介绍和原理分析
  http://ifeve.com/introduce-abstractqueuedsynchronizer/
  6.并发队列-无界阻塞优先级队列PriorityBlockingQueue原理探究
