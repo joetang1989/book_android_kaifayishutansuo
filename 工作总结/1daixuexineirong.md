@@ -1,11 +1,11 @@
 # 待学习研究内容及相关资料收录
 
 1. 网络
-2. 3. 数据库
-4. 图片加载框架
-5. 线程、多线程、线程池
-6. 
-7. ### 
+2. 数据库
+3. 图片加载框架
+4. 线程、多线程、线程池
+5. 
+6. ### 
 
    ```
     OkHttp
@@ -16,8 +16,8 @@
 
     WebSocket
    ```
-8. ### 数据库
-9. ### 图片加载框架
+7. ### 数据库
+8. ### 图片加载框架
 
 ```
 [**Android-Universal-Image-Loader**](https://github.com/nostra13/Android-Universal-Image-Loader)
